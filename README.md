@@ -1,14 +1,14 @@
-# Cracha NLW Heat - 2021
--> cracha-nlw é um crachá virtual criado durante a trilha Origin na NLW Heat, na semana de 18/10/21 a 22/10/21.
+# <h1>NLW Heat Badge - 2021</h1>
+-> NLW Heat Badge is a virtual badge created during the Origin track on NLW Heat between 10/18/21 and 10/22/21.
 
-Após a última aula, adicionei:
+After the last class I added:
 
-- Animações no avatar e no selo Rocketseat; 
-- Efeitos de hover nos links das redes sociais e github; 
-- Link do meu Linkedin junto ao github para tornar o perfil ainda mais completo.
+- Avatar and Rocketseat seal animations;
+- Hover effects on social media and github links; 
+- Link to my Linkedin next to github to make the profile even more complete.
 
-Tecnologias utilizadas: 
+<h2>Technologies:</h2> 
 
-- HTML5;
-- CSS3;
-- JavaScript.
+- HTML5
+- CSS3
+- JavaScript
